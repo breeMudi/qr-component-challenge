@@ -1,2 +1,3 @@
 # qr-component-challenge
-My solution attempt for the qr-component-challenge on Frontend Mentor Challenge (Html and CSS)
+My solution attempt on the qr-component-exercise using (Html and CSS) ==> Frontend Mentor Challenge
+
